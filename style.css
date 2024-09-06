@@ -1,0 +1,24 @@
+table {
+  border-collapse: collapse;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+td,
+th {
+  border: 2px solid #171616;
+  text-align: left;
+  padding: 8px;
+}
+h2 {
+  color: rgb(6, 13, 139);
+  background-color: rgb(11, 128, 231);
+}
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+h1,
+p,
+form {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20;
+}
